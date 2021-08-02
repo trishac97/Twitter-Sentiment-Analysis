@@ -23,6 +23,5 @@ many more NLP sentiment classification tools used by the
 researchers in recent times as discussed in the related section
 of the paper. Significant takeaway from the paper is particular
 on what investigation to be performed is imperative to evade
-
 superfluous calculations that may back you off when working
 with bigger informational collections.
